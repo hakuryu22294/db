@@ -32,7 +32,7 @@
       "title": "Re:Zero − Starting Life in Another World",
       "price": 90000,
       "description": "Câu chuyện về Subaru Natsuki, một học sinh trung học bị triệu hồi đến một thế giới khác.",
-      "categoryID": "1",
+      "categoryID": 3,
       "image": "https://m.media-amazon.com/images/I/81UcVWqWQgL._AC_UF1000,1000_QL80_.jpg"
     },
     {
@@ -56,7 +56,7 @@
       "title": "Kimetsu no Yaiba",
       "price": 80000,
       "description": "Câu chuyện về Tanjiro Kamado, một cậu bé trẻ tuổi trở thành Thợ Săn Quỷ để trả thù cho cái chết của gia đình mình.",
-      "categoryID": "1",
+      "categoryID": 2,
       "image": "https://cheesetranslatorteam.files.wordpress.com/2020/12/fb_img_1612338088159.jpg"
     },
     {
@@ -104,7 +104,7 @@
       "title": "Overlord",
       "price": 40000,
       "description": "Câu chuyện về Ainz Ooal Gown, một nhân vật trong trò chơi trực tuyến nổi tiếng Yggdrasil, bị mắc kẹt trong thế giới trò chơi sau khi máy chủ bị tắt.",
-      "categoryID": "Action",
+      "categoryID": 2,
       "image": "https://m.media-amazon.com/images/M/MV5BMjYxZjFkNTEtZjYzNC00MTdhLThiM2ItYmRiOWJiYTJkYzMxXkEyXkFqcGdeQXVyNDQxNjcxNQ@@._V1_FMjpg_UX1000_.jpg"
     },
     {
@@ -112,7 +112,7 @@
       "title": "My Hero Academia",
       "price": 30000,
       "description": "Câu chuyện về Izuku Midoriya, một cậu bé không có siêu năng lực nhưng mơ ước trở thành một siêu anh hùng.",
-      "categoryID": "Fantasy",
+      "categoryID": 1,
       "image": ""
     }
   ],
