@@ -1,12 +1,13 @@
 import jsonServer from "json-server";
 import auth from "json-server-auth";
 
-const server = jsonServer.create();
-const auth = auth.create();
+const app = jsonServer.create();
 const router = jsonServer.router("db.json");
-const middleware = jsonServer.defaults();
-const PORT = 8080;
-server.use(middleware);
-server.use(router);
-server.use(auth);
-server.listen(PORT);
+
+// /!\ Bind the router db to the app
+app.db = router.db;
+
+// You must apply the auth middleware before the router
+app.use(auth);
+app.use(router);
+app.listen(3000);
