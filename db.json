@@ -32,7 +32,7 @@
       "title": "Re:Zero − Starting Life in Another World",
       "price": 90000,
       "description": "Câu chuyện về Subaru Natsuki, một học sinh trung học bị triệu hồi đến một thế giới khác.",
-      "category": "Drama",
+      "categoryID": "1",
       "image": "https://m.media-amazon.com/images/I/81UcVWqWQgL._AC_UF1000,1000_QL80_.jpg"
     },
     {
@@ -40,7 +40,7 @@
       "title": "Naruto",
       "price": 90000,
       "description": "Câu chuyện về Naruto Uzumaki, một ninja trẻ tuổi có ước mơ trở thành Hokage, người đứng đầu làng Lá.",
-      "category": "Comedy",
+      "categoryID": 1,
       "image": "https://product.hstatic.net/200000343865/product/2_f16fd54254374acba3156edc1f5be482_master.jpg"
     },
     {
@@ -48,7 +48,7 @@
       "title": "Naruto",
       "price": 90000,
       "description": "Câu chuyện về Naruto Uzumaki, một ninja trẻ tuổi có ước mơ trở thành Hokage, người đứng đầu làng Lá.",
-      "category": "Comedy",
+      "categoryID": 2,
       "image": "https://product.hstatic.net/200000343865/product/2_f16fd54254374acba3156edc1f5be482_master.jpg"
     },
     {
@@ -56,7 +56,7 @@
       "title": "Kimetsu no Yaiba",
       "price": 80000,
       "description": "Câu chuyện về Tanjiro Kamado, một cậu bé trẻ tuổi trở thành Thợ Săn Quỷ để trả thù cho cái chết của gia đình mình.",
-      "category": "Action",
+      "categoryID": "1",
       "image": "https://cheesetranslatorteam.files.wordpress.com/2020/12/fb_img_1612338088159.jpg"
     },
     {
@@ -64,7 +64,7 @@
       "title": "Monogatari Series",
       "price": 100000,
       "description": "Câu chuyện về Koyomi Araragi, một học sinh trung học có khả năng hồi phục vết thương nhờ một con quỷ.",
-      "category": "Drama",
+      "categoryID": 3,
       "image": "https://upload.wikimedia.org/wikipedia/vi/1/12/Bakemonogatari_1_IPM_cover.jpg"
     },
     {
@@ -72,7 +72,7 @@
       "title": "Steins;Gate",
       "price": 80000,
       "description": "Câu chuyện về Okabe Rintarou, một nhà khoa học điên rồ, phát minh ra một cỗ máy thời gian.",
-      "category": "Fantasy",
+      "categoryID": 1,
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8DI96HaPjHyDDkyCX3yJkVSytL_ABzyif9mlO5PLNs_-MdZe6KiAKg4QZyYVrM9dIfx8&usqp=CAU"
     },
     {
@@ -80,7 +80,7 @@
       "title": "Sword Art Online",
       "price": 70000,
       "description": "Câu chuyện về Kirito, một người chơi được chọn để tham gia vào trò chơi thực tế ảo Sword Art Online.",
-      "category": "Fantasy",
+      "categoryID": 3,
       "image": "https://upload.wikimedia.org/wikipedia/vi/3/3e/Sword_Art_Online_light_novel_volume_1_cover.jpg"
     },
     {
@@ -88,7 +88,7 @@
       "title": "DanMachi",
       "price": 60000,
       "description": "Câu chuyện về Bell Cranel, một cậu bé trẻ tuổi tham gia vào một dungeon để trở thành một anh hùng.",
-      "category": "Drama",
+      "categoryID": 1,
       "image": "https://m.media-amazon.com/images/I/81fVlFsTzWL._AC_UF894,1000_QL80_.jpg"
     },
     {
@@ -96,7 +96,7 @@
       "title": "The Rising of the Shield Hero",
       "price": 100000,
       "description": "Câu chuyện về Naofumi Iwatani, một thanh niên bị triệu hồi đến một thế giới khác để trở thành một trong bốn anh hùng.",
-      "category": "Fantasy",
+      "categoryID": 1,
       "image": "https://m.media-amazon.com/images/M/MV5BMTQ2NTA1N2MtMzkxOS00MjQ3LTliODctOTk0ZTk1N2FiMmNlXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_FMjpg_UX1000_.jpg"
     },
     {
@@ -104,7 +104,7 @@
       "title": "Overlord",
       "price": 40000,
       "description": "Câu chuyện về Ainz Ooal Gown, một nhân vật trong trò chơi trực tuyến nổi tiếng Yggdrasil, bị mắc kẹt trong thế giới trò chơi sau khi máy chủ bị tắt.",
-      "category": "Action",
+      "categoryID": "Action",
       "image": "https://m.media-amazon.com/images/M/MV5BMjYxZjFkNTEtZjYzNC00MTdhLThiM2ItYmRiOWJiYTJkYzMxXkEyXkFqcGdeQXVyNDQxNjcxNQ@@._V1_FMjpg_UX1000_.jpg"
     },
     {
@@ -112,7 +112,7 @@
       "title": "My Hero Academia",
       "price": 30000,
       "description": "Câu chuyện về Izuku Midoriya, một cậu bé không có siêu năng lực nhưng mơ ước trở thành một siêu anh hùng.",
-      "category": "Fantasy",
+      "categoryID": "Fantasy",
       "image": ""
     }
   ],
