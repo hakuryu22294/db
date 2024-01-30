@@ -1,27 +1,27 @@
 {
   "categories": [
     {
-      "id": "1",
+      "id": 1,
       "name": "Action",
       "description": "Các câu chuyện về hành động, phiêu lưu, và chiến đấu."
     },
     {
-      "id": "2",
+      "id": 2,
       "name": "Comedy",
       "description": "Các câu chuyện mang tính hài hước."
     },
     {
-      "id": "3",
+      "id": 3,
       "name": "Drama",
       "description": "Các câu chuyện mang tính kịch tính."
     },
     {
-      "id": "4",
+      "id": 4,
       "name": "Fantasy",
       "description": "Các câu chuyện mang tính tưởng tượng."
     },
     {
-      "id": "5",
+      "id": 5,
       "name": "Historical",
       "description": "Các câu chuyện lấy bối cảnh lịch sử."
     }
