@@ -10,7 +10,9 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {},
+  "dependencies": {
+    "cors": "^2.8.5"
+  },
   "devDependencies": {
     "json-server": "^0.17.4",
     "json-server-auth": "^2.1.0"
