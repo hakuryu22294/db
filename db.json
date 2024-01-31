@@ -116,20 +116,5 @@
       "image": ""
     }
   ],
-  "users": [
-    {
-      "email": "b0yllvllen94@gmail.com",
-      "username": "qh",
-      "password": "123123123",
-      "role": "admin",
-      "id": 1
-    },
-    {
-      "email": "quanghack12b@gmail.com",
-      "username": "czxc",
-      "password": "123123123",
-      "role": "member",
-      "id": 2
-    }
-  ]
+  "users": []
 }
